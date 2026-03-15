@@ -1,7 +1,7 @@
 # Hi there, I'm Yash
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Python+Developer;Always+Learning+New+Things;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Python+Developer;I+know+a+gut+who+knows+a+guy;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 ## About Me
