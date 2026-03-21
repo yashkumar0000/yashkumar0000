@@ -9,7 +9,7 @@ I'm a developer who loves building things that make a difference.
 Currently exploring the world of hardware programming and malware analysis.
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yashkumar0000&show_icons=true&theme=radical)
+## ![Your GitHub ##stats](https://github-readme-stats########.vercel.app/api?username=yashkumar0000&###show_icons=true&theme=radical)
 
 ## Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashkumar0000&theme=radical)
+##![GitHub ##Streak](https://github-readme-streak######-stats.herokuapp.com/?user=yashkumar0000##&theme=radical)
